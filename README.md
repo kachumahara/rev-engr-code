@@ -7,45 +7,7 @@ This is to analyze the codes in different folders
 
 ### DIRECTORY STRUCTURE
 
-
-├── config
-│    ├── middleware
-│    │    └──isAuthenticated.js
-│    └──config.json
-│    └──passport.js 
-│ 
-├──models
-│   ├── index.js
-│   └── user.js   
-│   └── user.js   
-
-├── public
-│   ├── js
-│   │    ├── index.js
-│   │    └── user.js 
-│   │    ├── signup.js  
-│   │
-│   └──stylesheets
-│   │      └──style.css
-│   │
-│   └──login.html
-│   │ 
-│   └──members.html
-│   │ 
-│   └──signup.html
-│
-│
-├── routes
-│   ├── api-routes.js
-│   └── html-routes.js   
-│ 
-├──gitignore
-│
-├── package.json
-│   
-├──README
-│
-└──server.js
+![tu](https://user-images.githubusercontent.com/42631863/76921120-70796180-688a-11ea-9eb2-7e97ac14c542.jpg)
 
 
 
