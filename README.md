@@ -1,5 +1,59 @@
 #  Reverse Engineering Code
 
+
+### OVERVIEW
+
+This is to analyze the codes in different folders
+
+### DIRECTORY STRUCTURE
+
+
+├── config
+│    ├── middleware
+│    │    └──isAuthenticated.js
+│    └──config.json
+│    └──passport.js 
+│ 
+├──models
+│   ├── index.js
+│   └── user.js   
+│   └── user.js   
+
+├── public
+│   ├── js
+│   │    ├── index.js
+│   │    └── user.js 
+│   │    ├── signup.js  
+│   │
+│   └──stylesheets
+│   │      └──style.css
+│   │
+│   └──login.html
+│   │ 
+│   └──members.html
+│   │ 
+│   └──signup.html
+│
+│
+├── routes
+│   ├── api-routes.js
+│   └── html-routes.js   
+│ 
+├──gitignore
+│
+├── package.json
+│   
+├──README
+│
+└──server.js
+
+
+
+
+
+
+
+
 Reverse engineer the starter code provided and create a tutorial for the code.
 
 In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
