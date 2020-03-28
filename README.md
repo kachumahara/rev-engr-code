@@ -19,9 +19,8 @@ This is to analyze the codes in different folders
 * Passport-local {npm i passport-local}
 * Sequelize {npm i sequelize}
 
-Code Explanation Link: 
+Code Explanation Link: https://docs.google.com/document/d/1TYhDbKjRD98Gh2DxBX9xMzfTFEuILhHH3unb5nbLfTU/edit
 
-# Author:
-## Kenneth Achumahara
+# Author: Kenneth Achumahara
 
 
